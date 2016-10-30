@@ -10,5 +10,5 @@ def search_key(hash,key)
 	searching_node
 end
 
-puts search_key(hash,:rr)
+puts search_key(hash,:bsd)
 
